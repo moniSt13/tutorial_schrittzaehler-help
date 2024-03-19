@@ -1,5 +1,5 @@
 {
-    "name": "Tutorial_Schrittzähler",
+    "name": "Tutorial_Schrittzähler-help",
     "version": "0.0.2",
     "description": "",
     "dependencies": {
@@ -12,13 +12,14 @@
         "main.ts",
         "README.md",
         "TUTORIAL.md",
-        "main.py"
+        "main.py",
+        "_locales/de/TUTORIAL.md"
     ],
     "testFiles": [
         "test.ts"
     ],
     "targetVersions": {
-        "target": "5.0.12",
+        "target": "6.0.25",
         "targetId": "microbit"
     },
     "supportedTargets": [
